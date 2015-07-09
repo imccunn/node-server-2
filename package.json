@@ -1,0 +1,25 @@
+{
+  "name": "node-server-2",
+  "version": "0.1.0",
+  "description": "Simple server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test",
+    "start": "node server.js"
+  },
+  "author": "Ian D. McCunn <ianmccunn@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imccunn/node-server-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imccunn/node-server-2/issues"
+  },
+  "homepage": "https://github.com/imccunn/node-server-2"
+}
